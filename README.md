@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating different models for Astronomy using deep learning,quantum computing and many  data-analyzing model
 - 🌱 I’m currently learning various coding languages and how to use different models
 - 💞️ I’m looking to collaborate on my GitHub project Astrobe
-- 📫 How to reach me ...leave comments on my GitHub page
+  
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I like to paint,draw, and apply my creativity during my free time.
 
